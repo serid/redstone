@@ -1,0 +1,12 @@
+[package]
+name = "redstone"
+version = "0.1.0"
+authors = ["serid"]
+edition = "2018"
+
+[dependencies]
+vulkano = "0.13"
+vulkano-shaders = "0.13"
+vulkano-win = "0.13"
+winit = "0.19"
+image = "0.22"
